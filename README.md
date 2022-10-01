@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Baayeh
-- 👀 I’m interested in web and mobile app development
+- 👀 I’m a Full Stack Software Developer with a love for React
 - 🌱 I’m currently a student at Microverse
 - 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me kabaayeh@gmail.com or +233548091237
