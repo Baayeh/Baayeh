@@ -38,5 +38,5 @@
 
 [twitter]: https://twitter.com/Cest_Baayeh
 [instagram]: https://www.instagram.com/kabaayeh/
-[linkedin]: www.linkedin.com/in/kabaayeh
+[linkedin]: https://www.linkedin.com/in/kabaayeh
 [facebook]: https://web.facebook.com/kwasiantwi.baayeh.5
