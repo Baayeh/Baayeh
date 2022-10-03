@@ -2,7 +2,7 @@
 
 
 
-## I’m a Full-stack Software Developer with a love for React
+## I’m a Full-Stack Software Developer with a love for React
 
 - 🌱 I’m currently a student at [Microverse](https://www.microverse.org/)
 - 👯 I’m looking to collaborate with other developers
