@@ -39,7 +39,6 @@
 
 ### Streak Stats🔥
 [![GitHub Streak](https://streak-stats.demolab.com?user=Baayeh&theme=dark)](https://git.io/streak-stats)
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=baayeh&show_icons=true&locale=en" alt="baayeh" />
 
 
 ---
