@@ -7,6 +7,7 @@
 - 🥅 Goal: Learn to write clean code using the best practices
 - ⚡ Fun fact: I am a photographer.
 <h2></h2>
+
 ### Connect with me:
 
 [<img align="left" alt="Steps | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" style="padding-right:10px;" />][linkedin]
@@ -25,7 +26,7 @@
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
+<br />
 <h2></h2>
 
 ### Streak Stats🔥
