@@ -1,8 +1,7 @@
 # Hi there, I'm Kwasi - aka Steps 👋 
 
-
-
 ### I’m a Full-Stack Software Developer with a love for React
+<h2></h2>
 
 - 🌱 I’m currently a student at [Microverse](https://www.microverse.org/)
 - 👯 I’m looking to collaborate with other developers
