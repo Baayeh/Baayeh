@@ -15,6 +15,7 @@
 [<img align="left" alt="Steps | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" style="padding-right:10px;" />][facebook]
 [<img align="left" alt="Steps | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="padding-right:10px;" />][instagram]
 
+<br />
 <h2></h2>
 
 ### Languages and Tools:
