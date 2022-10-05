@@ -31,6 +31,7 @@
 
 <br />
 
+### Streak Stats🔥
 [![GitHub Streak](https://streak-stats.demolab.com?user=Baayeh&theme=dark)](https://git.io/streak-stats)
 
 <br />
