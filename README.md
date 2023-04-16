@@ -1,4 +1,4 @@
-# Meet Kwasi: Your friendly neighbourhood developer 
+# Your friendly neighbourhood developer 
 
 ### I’m a Full-Stack Software Developer with a love for React
 
