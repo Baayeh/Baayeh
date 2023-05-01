@@ -1,6 +1,6 @@
 # Your friendly neighbourhood developer 
 
-### I’m a Full-Stack Software Developer with a love for React
+### As a Full-Stack Software Developer, I have a special place in my heart for React ❤️.
 
 - 🌱 I’m currently learning Python!😎🐍
 - 👯 I’m looking to collaborate with other developers
