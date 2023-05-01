@@ -2,7 +2,7 @@
 
 ### I’m a Full-Stack Software Developer with a love for React
 
-- 🌱 I’m currently a student at [Microverse](https://www.microverse.org/)
+- 🌱 I’m currently learning Python!😎🐍
 - 👯 I’m looking to collaborate with other developers
 - 🥅 Goal: Learn to write clean code using the best practices
 - ⚡ Fun fact: I am a photographer.
