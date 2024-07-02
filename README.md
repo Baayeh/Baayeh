@@ -2,7 +2,7 @@
 
 ### I have a special place in my heart for React ❤️.
 
-- 🌱 I’m currently learning Python!😎🐍
+- 🌱 I’m currently learning Python for web development!😎🐍
 - 👯 I’m looking to collaborate with other developers
 - 🥅 Goal: Learn to write clean code using the best practices
 - ⚡ Fun fact: I am a photographer.
